@@ -1,0 +1,11 @@
+{
+  "name": "node-predictionio-jsonp-layer",
+  "version": "1.0.0",
+  "description": "Setup a jsonp server to receive event and pass to predictionio server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Wong",
+  "license": "ISC"
+}
